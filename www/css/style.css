@@ -2,4 +2,20 @@
 botton,label{
   margin-top: 10px
 }
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
 
+p {
+    font: Arial;
+    Size: 30px;
+}
+
+p {
+    text-align: center;
+    color: red;
+} 
